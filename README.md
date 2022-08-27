@@ -1,2 +1,0 @@
-# linuxtutorial
-linux notes
